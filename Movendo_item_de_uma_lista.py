@@ -1,3 +1,4 @@
+
 lista1 = []
 elemento = int(input("Escreva um elemento da lista: "))
 lista1.append(elemento)
@@ -27,3 +28,5 @@ print(n2, lista2[n2])
 for i in range((n2+1) , len(lista1)):
     lista2.append(lista1[i])
     print(i, lista2[i])
+
+    
